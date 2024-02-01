@@ -8,7 +8,7 @@ import { IoCart } from "react-icons/io5";
 export const NavBar = () => {
     return (
         <>
-            <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
+            <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary shadow-sm p-3 mb-5 bg-body rounded">
                 <Container>
                     <Navbar.Brand href="#home"></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
