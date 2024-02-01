@@ -19,7 +19,7 @@ const Contact = () => {
               POUR VOTRE INFORMATION ! Nous offrons un service traiteur complet
               pour tout événement, grand ou petit. Nous comprenons vos besoins
               et nous préparerons nos plats pour satisfaire les critères les
-              plus importants, à la fois esthétiques et gustatifs..
+              plus importants, à la fois esthétiques et gustatifs...
             </p>
 
             <Table striped bordered hover >
